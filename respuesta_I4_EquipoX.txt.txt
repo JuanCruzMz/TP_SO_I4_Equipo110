@@ -1,0 +1,7 @@
+A- El color de fondo de la pagina en TESTING es azul.
+
+B- El color de fondo de la pagina en DESARROLLO es amarillo.
+
+C- El color de fondo de la pagina en main es azul.
+
+D- Al parecer, quedaron los dos.
