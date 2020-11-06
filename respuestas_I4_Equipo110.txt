@@ -1,0 +1,6 @@
+Juan Cruz Muñoz, Roberta Gabor, Abril Costanzo
+
+A-El fondo de TESTING quedo azul.
+B-El fondo de DESARROLLO quedo amarillo.
+C-El fondo de MASTER quedo azul.
+D-Quedaron ambos favicones.
