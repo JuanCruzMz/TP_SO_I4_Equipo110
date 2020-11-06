@@ -1,7 +1,11 @@
-A- El color de fondo de la pagina en TESTING es azul.
+Juan Cruz Muñoz, Roberta Gabor, Abril Costanzo
 
-B- El color de fondo de la pagina en DESARROLLO es amarillo.
-
-C- El color de fondo de la pagina en main es azul.
-
-D- Al parecer, quedaron los dos.
+A-El fondo de TESTING quedo azul.
+B-El fondo de DESARROLLO quedo amarillo.
+C-El fondo de MASTER quedo azul.
+D-Quedaron ambos favicones.
+E-Gamma tuvo problemas con el push.
+F-Surgieron un par de conflictos a la hora de hacer el push.
+G-Para resolver los conflictos, Gamma tuvo que hacer un pull y "pisar" los cambios realizados por Alfa en el Index.
+H-No tuvimos necesidad de usar "push -f"
+I-Creemos que haciendo un "pull" de TESTING, añadiendo los datos pisados de Alfa y haciendo un "merge" de TESTING a DESARROLLO.
